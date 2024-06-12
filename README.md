@@ -4,5 +4,6 @@ A crime has taken place and the detective needs your help. The detective gave yo
 1. Search for information about a murder on 15 January 2018:
   <img width="946" alt="Screenshot 2024-06-11 at 8 08 24 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/683fda3d-16f7-4f6c-acee-789ac8dce91b">
 Result:
+
 <img width="840" alt="Screenshot 2024-06-11 at 8 09 16 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/23ec23b1-6379-484f-91dd-eabafeae1fc0">
 
