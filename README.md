@@ -30,8 +30,40 @@ A crime has taken place and the detective needs your help. The detective gave yo
 <img width="932" alt="Screenshot 2024-06-11 at 8 33 18 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/a2929ab7-5650-4258-a592-aaf2f5936afc">
 
 ##### Result:
-id	age	height	eye_color	hair_color	gender	plate_number	car_make	car_model	id	name	license_id	address_number	address_street_name	ssn
-664760	21	71	black	black	male	4H42WR	Nissan	Altima	51739	Tushar Chandra	664760	312	Phi St	137882671
-423327	30	70	brown	brown	male	0H42W2	Chevrolet	Spark LS	67318	Jeremy Bowers	423327	530	Washington Pl, Apt 3A	871539279
-183779	21	65	blue	blonde	female	H42W0X	Toyota	Prius	78193	Maxine Whitely	183779	110	Fisk Rd	137882671
+<img width="908" alt="Screenshot 2024-06-11 at 8 38 15 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/dff55159-d85c-44d8-80e9-f07b1eb9b8f0">
+<img width="936" alt="Screenshot 2024-06-11 at 8 40 04 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/9b325f5d-9d10-4f52-9f16-0cc67701743f">
+<img width="673" alt="Screenshot 2024-06-11 at 8 40 17 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/119c8d97-2765-4029-a99e-aa68456c1d28">
+
+#### 5. Check Annabel Miller interview:
+<img width="940" alt="Screenshot 2024-06-11 at 8 42 14 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/5fc5c9c2-b9f0-4f60-9d84-41d030c3e952">
+
+##### Result:
+<img width="854" alt="Screenshot 2024-06-11 at 8 44 06 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/70db573c-1937-42f3-bcfb-63e9673920dc">
+
+#### 6. Check solution:
+<img width="913" alt="Screenshot 2024-06-11 at 8 45 04 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/3a72177f-e4bf-45b9-ba37-5b4dbede98e8">
+
+##### Result:
+<img width="840" alt="Screenshot 2024-06-11 at 8 45 22 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/3b4b1f43-046d-4e36-84c1-0fc6d3db890a">
+
+#### 7. Murderer - interview:
+<img width="933" alt="Screenshot 2024-06-11 at 8 46 13 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/6af0e85c-6c38-411d-ac63-133cc6773257">
+
+##### Result:
+<img width="837" alt="Screenshot 2024-06-11 at 8 46 27 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/94ca31ce-9d21-4666-b6e9-236f28aad9b7">
+
+#### 8. Find woman:
+<img width="936" alt="Screenshot 2024-06-11 at 8 53 11 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/6b3fc50f-0e7d-4222-9d8b-6c53ddd7d8fc">
+
+##### Result:
+<img width="148" alt="Screenshot 2024-06-11 at 8 53 40 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/9ec9b1af-b1a2-47db-b551-0edcdf1a2692">
+
+#### 9. Check solution:
+<img width="941" alt="Screenshot 2024-06-11 at 8 54 26 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/03d16bdb-1350-4cdb-871a-bcb14ba2eac5">
+
+##### Result:
+<img width="839" alt="Screenshot 2024-06-11 at 8 54 48 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/78aca54d-1fe9-44ce-8a26-0dce829f8ac2">
+
+
+
 
