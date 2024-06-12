@@ -29,10 +29,12 @@ A crime has taken place and the detective needs your help. The detective gave yo
 #### 4. Check Morty Schapiro interview:
 <img width="932" alt="Screenshot 2024-06-11 at 8 33 18 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/a2929ab7-5650-4258-a592-aaf2f5936afc">
 <img width="936" alt="Screenshot 2024-06-11 at 8 40 04 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/9b325f5d-9d10-4f52-9f16-0cc67701743f"> 
+
 ##### Result:
-<img width="908" alt="Screenshot 2024-06-11 at 8 38 15 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/dff55159-d85c-44d8-80e9-f07b1eb9b8f0">                
+<img width="908" alt="Screenshot 2024-06-11 at 8 38 15 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/dff55159-d85c-44d8-80e9-f07b1eb9b8f0">      
       
 <img width="673" alt="Screenshot 2024-06-11 at 8 40 17 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/119c8d97-2765-4029-a99e-aa68456c1d28">
+-Jeremy Bowers is the only one that appear on both of the results, therefore we must be the murderer. However we will continue and look at Annabel's interview to be sure.
 
 #### 5. Check Annabel Miller interview:
 <img width="940" alt="Screenshot 2024-06-11 at 8 42 14 PM" src="https://github.com/hannahknguyen/SQL-Murder-Mystery/assets/172239808/5fc5c9c2-b9f0-4f60-9d84-41d030c3e952">
