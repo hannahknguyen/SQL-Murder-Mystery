@@ -1,0 +1,62 @@
+-- crime scene report
+select description
+from crime_scene_report
+where type = 'murder'
+and city = 'SQL City'
+and date = '20180115';
+
+-- interview with first witness
+select transcript
+from interview i
+join person p on i.person_id = p.id
+where p.address_street_name = 'northwestern dr'
+order by address_number desc
+limit 1;
+
+-- interview with second witness
+select transcript
+from interview i
+join person p on i.person_id = p.id
+where address_street_name = 'franklin ave'
+and name like '%annabel%';
+
+-- murderer
+select p.name
+from person p
+join drivers_license d on p.license_id = d.id
+join get_fit_now_member m on p.id = m.person_id
+join get_fit_now_check_in c on m.id = c.membership_id
+where c.check_in_date = '20180109'
+and m.id like '48z%'
+and m.membership_status = 'gold'
+and d.plate_number like '%h42w%';
+
+-- interview with murderer
+select i.transcript
+from interview i
+join person p on i.person_id = p.id
+join drivers_license d on p.license_id = d.id
+join get_fit_now_member m on p.id = m.person_id
+join get_fit_now_check_in c on m.id = c.membership_id
+where c.check_in_date = '20180109'
+and m.id like "48z%"
+and m.membership_status = 'gold'
+and d.plate_number like '%h42w%';
+
+-- woman who hired the murderer
+select p.name, i.annual_income
+from person p
+join income i on p.ssn = i.ssn
+join drivers_license d on p.license_id = d.id
+join facebook_event_checkin f on p.id = f.person_id
+where gender = 'female'
+and height >= 65
+and height <= 67
+and hair_color = 'red'
+and car_make = 'tesla'
+and car_model = 'model s'
+and f.event_name = 'sql symphony concert'
+and f.date >= '20171201'
+and f.date <= '20171231'
+group by p.id
+having count(f.event_id) = 3;
